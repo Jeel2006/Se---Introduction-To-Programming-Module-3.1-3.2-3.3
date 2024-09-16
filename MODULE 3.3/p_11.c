@@ -1,4 +1,4 @@
-//11//WAP to show difference between Structure and Union. 
+//11/*WAP to show difference between Structure and Union.*/ 
 #include<stdio.h>
 struct Student
 {
