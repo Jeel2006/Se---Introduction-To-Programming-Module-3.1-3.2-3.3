@@ -1,4 +1,5 @@
-//4/*WAP to find factorial using recursion*/
+7y3
+	//4/*WAP to find factorial using recursion*/
 #include<iostream>
 using namespace std;
 int fact(int num)
